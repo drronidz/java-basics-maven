@@ -1,10 +1,11 @@
-package com.baeldung;
+package com.baeldung.inheritance.basics;
 
+import com.baeldung.inheritance.basics.Person;
+import com.baeldung.inheritance.basics.Waitress;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
 
 /*

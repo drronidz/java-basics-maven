@@ -1,4 +1,4 @@
-package com.baeldung;
+package com.baeldung.inheritance.basics;
 
 /*
 PROJECT NAME : java-basics-maven
