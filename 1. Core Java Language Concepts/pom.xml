@@ -13,5 +13,10 @@
     <packaging>pom</packaging>
     <modules>
         <module>1. What is a POJO Class</module>
+        <module>2. Inheritance and Composition (Is-a vs Has-a relationship) in Java</module>
     </modules>
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
 </project>
