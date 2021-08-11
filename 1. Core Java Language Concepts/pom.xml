@@ -15,6 +15,7 @@
         <module>1. What is a POJO Class</module>
         <module>2. Inheritance and Composition (Is-a vs Has-a relationship) in Java</module>
         <module>3. Control Structures in Java</module>
+        <module>4. Using the Not Operator in If Conditions in Java</module>
     </modules>
     <properties>
         <maven.compiler.source>1.14</maven.compiler.source>
