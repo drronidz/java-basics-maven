@@ -9,15 +9,19 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>1. Core Java Language Concepts</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>1. What is a POJO Class</module>
-        <module>2. Inheritance and Composition (Is-a vs Has-a relationship) in Java</module>
-        <module>3. Control Structures in Java</module>
-    </modules>
-    <properties>
-        <maven.compiler.source>1.14</maven.compiler.source>
-        <maven.compiler.target>1.14</maven.compiler.target>
-    </properties>
+    <artifactId>3. Control Structures in Java</artifactId>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>14</source>
+                    <target>14</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+
 </project>
