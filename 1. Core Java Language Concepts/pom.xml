@@ -18,6 +18,7 @@
         <module>4. Using the Not Operator in If Conditions in Java</module>
         <module>5. The Modulo Operator in Java</module>
         <module>6. Java Switch Statement</module>
+        <module>7. Java – Try with Resources</module>
     </modules>
     <properties>
         <maven.compiler.source>1.14</maven.compiler.source>
